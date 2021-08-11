@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": [
+            "Katlyn",
+            "Quigley"
+        ],
+        "grades": {
+            "English": "B",
+            "Math": "C",
+            "Science": "D"
+        }
+    },
+    {
+        "id": 2,
+        "name": [
+            "Zelma",
+            "Mills"
+        ],
+        "grades": {
+            "English": "A",
+            "Math": "D",
+            "Science": "B"
+        }
+    },
+    {
+        "id": 3,
+        "name": [
+            "Elias",
+            "Feil"
+        ],
+        "grades": {
+            "English": "A",
+            "Math": "B",
+            "Science": "D"
+        }
+    },
+    {
+        "id": 4,
+        "name": [
+            "Shana",
+            "Mayer"
+        ],
+        "grades": {
+            "English": "B",
+            "Math": "B",
+            "Science": "D"
+        }
+    }
+]
